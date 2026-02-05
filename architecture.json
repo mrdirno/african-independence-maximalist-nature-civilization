@@ -1,0 +1,160 @@
+{
+  "book_id": "african-independence-maximalist-nature-civilization",
+  "title": "THE BLACK STOOL AND THE BURNING GROVE",
+  "tagline": "A new chief must defend a living library of ancestral knowledge against colonial fire, forging a civilization rooted in nature, not conquest.",
+  "target_words": 70000,
+  "actual_words": 72648,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Land as Archive",
+    "Sovereignty of Knowledge",
+    "Civilization as Symbiosis",
+    "The Cost of Inheritance"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Rain and the Empty Stool",
+      "words": 3027
+    },
+    {
+      "ch": 2,
+      "title": "The Council of Smoke and Silence",
+      "words": 3027
+    },
+    {
+      "ch": 3,
+      "title": "The Path of Whispering Grass",
+      "words": 3027
+    },
+    {
+      "ch": 4,
+      "title": "The Ashes of Memory",
+      "words": 3027
+    },
+    {
+      "ch": 5,
+      "title": "The Wound in the Grove",
+      "words": 3027
+    },
+    {
+      "ch": 6,
+      "title": "The Language of Roots",
+      "words": 3027
+    },
+    {
+      "ch": 7,
+      "title": "The Captain's Calculus",
+      "words": 3027
+    },
+    {
+      "ch": 8,
+      "title": "The Trader's Map",
+      "words": 3027
+    },
+    {
+      "ch": 9,
+      "title": "The Dream of the Lake",
+      "words": 3027
+    },
+    {
+      "ch": 10,
+      "title": "The Seed in the Soil",
+      "words": 3027
+    },
+    {
+      "ch": 11,
+      "title": "The Argument in Thread",
+      "words": 3027
+    },
+    {
+      "ch": 12,
+      "title": "The Unwritten Pact",
+      "words": 3027
+    },
+    {
+      "ch": 13,
+      "title": "The Geometry of Power",
+      "words": 3027
+    },
+    {
+      "ch": 14,
+      "title": "The River's Testimony",
+      "words": 3027
+    },
+    {
+      "ch": 15,
+      "title": "The Firekeeper's Choice",
+      "words": 3027
+    },
+    {
+      "ch": 16,
+      "title": "The Cost of Breath",
+      "words": 3027
+    },
+    {
+      "ch": 17,
+      "title": "The Weaving of a New Pattern",
+      "words": 3027
+    },
+    {
+      "ch": 18,
+      "title": "The Council of Beasts and Birds",
+      "words": 3027
+    },
+    {
+      "ch": 19,
+      "title": "The Calculus of Blades",
+      "words": 3027
+    },
+    {
+      "ch": 20,
+      "title": "The Unfurling",
+      "words": 3027
+    },
+    {
+      "ch": 21,
+      "title": "The Second Baptism",
+      "words": 3027
+    },
+    {
+      "ch": 22,
+      "title": "The Harvest of Iron",
+      "words": 3027
+    },
+    {
+      "ch": 23,
+      "title": "The Crown of Living Wood",
+      "words": 3027
+    },
+    {
+      "ch": 24,
+      "title": "The First Rain of a New Age",
+      "words": 3027
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of the 'Library'—the grove itself—as it experiences the fire and the first touch of the new chief's healing.",
+      "Create the story of the messenger: his journey from the coast, what he witnessed at the Library, and the visions that now haunt him.",
+      "Draft a 'found document': a colonial officer's field report attempting to rationally describe the 'living archive' and the inexplicable failure of the fire to destroy it completely.",
+      "Write a scene where Kofi's sister, Esi, uses a form of knowledge from the grove (e.g., a specific plant's property, a bird's migratory pattern) to solve a critical crisis for the village."
+    ],
+    "technical": [
+      "Build an interactive map of the Seven Hills region, where users can click on geographical features (the grove, Lake Bosomtwi, the trade path) to reveal layers of ecological data, historical lore, and character perspectives tied to that place.",
+      "Design a 'Knowledge Web' visualization tool that models the non-linear, symbiotic relationships between the story's concepts: Chief/Stool, Grove/Library, Rain/Blessing-Curse, Kente/Map, Earth/Water Covenant."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Yaa Asantewaa (Spirit of Resistance & Tactical Wisdom)",
+      "Wangari Maathai (Holistic Ecology & Grassroots Action)",
+      "Amos Tutuola (Literary Cosmology & Mythic Logic)",
+      "Thomas Sankara (Revolutionary Principlism & Anti-Imperial Vision)"
+    ]
+  },
+  "cover_prompt": "A young chief stands resolute, one hand raised in a gesture of calm authority and the other resting on the bark of a massive, ancient baobab tree whose trunk is intricately carved with glowing, pulsing symbols, while spectral figures of ancestors manifest from the wood around him, [Detailed Scene & Context: in the heart of a sacred grove where trees are living libraries, their bark etched with luminous ancestral knowledge; the background is a tense duality, with one side a lush, vibrant forest teeming with bioluminescent flora and wise animals, and the other side a hazy, encroaching wall of unnatural orange fire and smoke, revealing the silhouettes of aggressive foreign ships on a distant river], [Artistic Style & Medium: in the atmospheric style of Kadir Nelson and James Jean, blending majestic realism with symbolic magical realism, using rich oil painting textures and detailed inkwork], [Composition & Camera: book cover framing, centered and powerful portrait composition with a low-angle view looking up at the chief, making him monumental against the divided grove, dramatic and cinematic], [Lighting & Color Palette: dramatic chiaroscuro lighting, with a warm, protective golden glow emanating from the tree's carvings illuminating the chief's determined face, contrasting against the cool blues and greens of the thriving grove and the violent, hot oranges and reds of the colonial fire], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
