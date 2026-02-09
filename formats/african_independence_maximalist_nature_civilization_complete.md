@@ -2,7 +2,9 @@
 
 ## CHAPTER 1
 
-The border crossing at dawn smells of diesel, sweat, fried plantains, cheap perfume, burning trash, wet concrete, and the unmistakable metallic tang of fear. Voices overlap in seven languages: French officialese from the guards, Wolof bargaining from the traders, English protests from the aid workers, Arabic prayers from the pilgrims, Portuguese curses from the truckers, Swahili gossip from the market women, and the silent language of hands exchanging bribes beneath clipboards. Colors assault: the faded blue of UN helmets, the orange plastic of water containers, the crimson of a woman's headwrap, the yellow stripes of barrier tape, the green mold on abandoned shipping containers, the silver flash of a machete being sharpened, the brown of dust coating everything. Textures: the smooth cold of passport stamps, the rough hemp of sacks being dragged, the sticky residue of spilled soda on countertops, the gritty feel of sand in eyelashes. Sounds: generators humming, babies crying, radios competing, money counting, gates clanging, engines idling, arguments escalating, whispers conspiring. Movement: hands gesturing, papers shuffling, feet shuffling, heads turning, goods exchanging, glances avoiding. The border isn't a line but an organism—a hundred meters of concentrated humanity where nature's old pathways meet civilization's new rules, and neither wins.
+Cement cracked. Not with age, but with a green, insistent fist. A strangler fig had shouldered its way through the colonial governor’s veranda, roots like arteries pulsing with stolen rain, and Kofi watched the stone split as cleanly as a continent.
+
+
 
 
 He adjusted the heavy, hand-woven *kente* cloth across his shoulder. The geometric patterns—gold, green, black, red—were a map of his lineage, a silent, screaming argument in thread. His father, Nana Kwame Asante, had been a man who wore his history lightly, like a second skin. Kofi felt it as a weight, a mantle of expectation still damp from the downpour.
